@@ -19,7 +19,7 @@
 
 ## 환경
 * Pycharm
-* Pychon
+* Python
 * PyQt5
 
 
